@@ -1,5 +1,7 @@
 · This is a 「Made in Abyss」 fan game that I made using C++ and Qt when I first started learning programming in 2017.
 
+(Because this project is from many years ago, when I didn't know how to use GitHub, the original files are missing, so the files here might look very messy.)
+
 · bilibili video link: https://www.bilibili.com/video/BV1bZ4y1Q7Yh/
 
 ·本作为动漫《来自深渊》同人游戏
@@ -16,18 +18,8 @@
 ·莉可走路会卡，有时动画效果会失效，按多几下才能恢复
 ·两块地板平行的时候，有时怪物会卡在中间
 
-
 <img src="readme_imgs/截屏2023-07-12 18.54.46.png"  height="400">
 
 <img src="readme_imgs/截屏2023-07-12 18.56.42.png"  height="400">
 <img src="readme_imgs/截屏2023-07-12 18.58.12.png"  height="400">
 <img src="readme_imgs/截屏2023-07-12 18.54.14.png"  height="400">
-
-
-
-
-
-
-
-
-
