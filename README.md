@@ -1,4 +1,6 @@
-bilibili video link: https://www.bilibili.com/video/BV1bZ4y1Q7Yh/
+· This is a 「Made in Abyss」 fan game that I made using C++ and Qt when I first started learning programming in 2017.
+
+· bilibili video link: https://www.bilibili.com/video/BV1bZ4y1Q7Yh/
 
 ·本作为动漫《来自深渊》同人游戏
 
