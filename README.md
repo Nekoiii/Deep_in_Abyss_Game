@@ -1,6 +1,6 @@
 · This is a 「Made in Abyss」 fan game that was made by C++ and Qt when I first started learning programming in 2017.
 
-(Because this project is from many years ago, when I didn't know how to use GitHub, the original files are missing, so the files here might look very messy.)
+(Because this project is from many years ago, when I didn't know how to use GitHub, the original project folder is missing. So the files here might look very messy.)
 <br> 
 <br> 
 <br> 
