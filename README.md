@@ -22,8 +22,8 @@
 ·莉可走路会卡，有时动画效果会失效，按多几下才能恢复
 ·两块地板平行的时候，有时怪物会卡在中间
 
-<img src="readme_imgs/截屏2023-07-12 18.54.46.png"  height="400">
+<img src="readme_imgs/截屏2023-07-12 18.54.46.png"  width="60%" >
 
-<img src="readme_imgs/截屏2023-07-12 18.56.42.png"  height="400">
-<img src="readme_imgs/截屏2023-07-12 18.58.12.png"  height="400">
-<img src="readme_imgs/截屏2023-07-12 18.54.14.png"  height="400">
+<img src="readme_imgs/截屏2023-07-12 18.56.42.png"  width="60%" >
+<img src="readme_imgs/截屏2023-07-12 18.58.12.png"  width="60%" >
+<img src="readme_imgs/截屏2023-07-12 18.54.14.png"  width="60%" >
