@@ -1,9 +1,13 @@
 · This is a 「Made in Abyss」 fan game that I made using C++ and Qt when I first started learning programming in 2017.
 
 (Because this project is from many years ago, when I didn't know how to use GitHub, the original files are missing, so the files here might look very messy.)
-
+<br> 
+<br> 
+<br> 
 · bilibili video link: https://www.bilibili.com/video/BV1bZ4y1Q7Yh/
-
+<br> 
+<br> 
+<br> 
 ·本作为动漫《来自深渊》同人游戏
 
 ·如果 bgm 不能播放，请确认所有解压出的文件都放在一个叫“Abyss”的文件夹里
